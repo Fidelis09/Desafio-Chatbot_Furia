@@ -1,6 +1,6 @@
 # 🤖 Chat Fã da FURIA
 
-![FURIA Logo](imagens/logo.png)
+## Ascesse o site em https://cool-sunshine-1fda45.netlify.app/
 
 **Chatbot interativo para fãs da FURIA, desenvolvido como parte de um processo seletivo de estágio.**
 
@@ -39,29 +39,6 @@ seu-projeto/
 * **HTML5** e **CSS3**: Estrutura e estilo da interface.
 * **JavaScript (ES6+)**: Lógica de chat, normalização de texto e envio de mensagens.
 * **Netlify** ou **Vercel**: Plataformas recomendadas para deploy contínuo.
-
-## 💻 Como Executar Localmente
-
-1. **Clone este repositório**
-
-   ```bash
-   ```
-
-git clone [https://github.com/seu-usuario/chatbot-furia.git](https://github.com/seu-usuario/chatbot-furia.git)
-cd chatbot-furia
-
-````
-
-2. **Abra o `index.html`**
-- Com um duplo clique no arquivo, ou
-- Utilize um servidor local (ex: `Live Server` no VSCode).
-
-3. **Interaja com o Chatbot**
-- Digite perguntas no campo de input.
-- Envie clicando no botão ou pressionando `Enter`.
-
-
-
 
 ## 📖 Como Usar
 
